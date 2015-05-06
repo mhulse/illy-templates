@@ -1,12 +1,16 @@
 # Illy
 
-Adobe Illustrator templates and files that I find useful.
+Adobe Illustrator templates, and other related files, that I have created for use in various projects over time.
 
 ## Files
 
-### `12x6-grid.ait`
+### `grid-12x6.ait`
 
-![12x6 grid](12x6-grid.png)
+![12x6 grid](grid-12x6.png)
+
+### `grid-1760x3200.ait`
+
+![1760x3200](grid-1760x3200.png)
 
 ---
 
