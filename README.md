@@ -16,6 +16,10 @@ Adobe Illustrator templates, and other related files, that I have created for us
 
 ![icon guide](icon-guide.png)
 
+### `icon-guide-2up.ait`
+
+![icon guide 2up](icon-guide-2up.png)
+
 ---
 
 #### LEGAL
