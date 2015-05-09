@@ -10,7 +10,11 @@ Adobe Illustrator templates, and other related files, that I have created for us
 
 ### `grid-1760x3200.ait`
 
-![1760x3200](grid-1760x3200.png)
+![1760x3200 grid](grid-1760x3200.png)
+
+### `icon-guide.ait`
+
+![icon guide](icon-guide.png)
 
 ---
 
