@@ -20,6 +20,14 @@ Adobe Illustrator templates, and other related files, that I have created for us
 
 ![icon guide 2up](icon-guide-2up.png)
 
+## Profiles
+
+Put them here:
+
+```text
+Users/[USER]/Library/Application\ Support/Adobe/Adobe\ Illustrator\ 18/en_US/New\ Document\ Profiles/
+```
+
 ---
 
 #### LEGAL
