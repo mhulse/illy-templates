@@ -4,6 +4,10 @@ Adobe Illustrator templates, and other related files, that I have created for us
 
 ## Files
 
+### `pixel.ait`
+
+![pixel](pixel.png)
+
 ### `grid-12x6.ait`
 
 ![12x6 grid](grid-12x6.png)
