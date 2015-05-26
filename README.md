@@ -4,6 +4,10 @@ Adobe Illustrator templates, and other related files, that I have created for us
 
 ## Files
 
+### Template: `pixel-iso.ait`
+
+![pixel iso](pixel-iso.png)
+
 ### Template: `pixel-32x32.ait`
 
 ![pixel 32x32](pixel-32x32.png)
