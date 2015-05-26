@@ -4,31 +4,15 @@ Adobe Illustrator templates, and other related files, that I have created for us
 
 ## Files
 
-### `pixel-32x32.ait`
+### Template: `pixel-32x32.ait`
 
 ![pixel 32x32](pixel-32x32.png)
 
-### `pixel.ait`
+### Template: `pixel.ait`
 
 ![pixel](pixel.png)
 
-### `grid-12x6.ait`
-
-![12x6 grid](grid-12x6.png)
-
-### `grid-1760x3200.ait`
-
-![1760x3200 grid](grid-1760x3200.png)
-
-### `icon-guide.ait`
-
-![icon guide](icon-guide.png)
-
-### `icon-guide-2up.ait`
-
-![icon guide 2up](icon-guide-2up.png)
-
-## Editing Pixel art in Illy
+#### About
 
 1. So far, the best approach is to use the ["Live Paint Bucket" tool](http://www.sketchypictures.com/1511/creating-pixel-art-in-illustrator/).
 
@@ -56,15 +40,31 @@ Adobe Illustrator templates, and other related files, that I have created for us
 
 ![screen shot 2014-06-01 at 6 48 10 pm](https://cloud.githubusercontent.com/assets/218624/3143409/a8034150-e9f8-11e3-82c0-ac07a16abe6e.png)
 
-## Profiles
+### Template: `grid-12x6.ait`
 
-Put them here:
+![12x6 grid](grid-12x6.png)
+
+### Template: `grid-1760x3200.ait`
+
+![1760x3200 grid](grid-1760x3200.png)
+
+### Template: `icon-guide.ait`
+
+![icon guide](icon-guide.png)
+
+### Template: `icon-guide-2up.ait`
+
+![icon guide 2up](icon-guide-2up.png)
+
+## Installation locations
+
+### Profiles
 
 ```text
 Users/[USER]/Library/Application\ Support/Adobe/Adobe\ Illustrator\ 18/en_US/New\ Document\ Profiles/
 ```
 
-## `Scripts` installation location
+### Scripts
 
 ```text
 /Applications/Adobe\ Illustrator\ CC\ 2014/Presets.localized/en_US/Scripts
