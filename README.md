@@ -4,13 +4,25 @@ Adobe Illustrator templates, and other related files, that I have created for us
 
 ## Files
 
+### Template: `axonometric-32x32.ait`
+
+![axonometric 32x32](axonometric-32x32.png)
+
+#### About
+
+Used to create axonometric (45º angles) pixel art.
+
+**Recommended preference:**
+
+![axonometric prefs](https://cloud.githubusercontent.com/assets/218624/7830147/7f363db0-03fe-11e5-9855-6706f60539ed.png)
+
 ### Template: `pixel-iso.ait`
 
 ![pixel iso](pixel-iso.png)
 
 #### About
 
-Used to create isometric pixel art.
+Used to create isometric (30º angles) pixel art.
 
 **Recommended preference:**
 
@@ -78,6 +90,12 @@ Or using [VectorScribe](http://www.astutegraphics.com/software/vectorscribe/)’
 
 ```text
 Users/[USER]/Library/Application\ Support/Adobe/Adobe\ Illustrator\ 18/en_US/New\ Document\ Profiles/
+```
+
+### Actions
+
+```text
+/Applications/Adobe\ Illustrator\ CC\ 2014/Presets.localized/en_US/Actions
 ```
 
 ### Scripts
