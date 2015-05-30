@@ -4,6 +4,10 @@ Adobe Illustrator templates, and other related files, that I have created for us
 
 ## Files
 
+### Template: `axonometric-64x64.ait`
+
+![axonometric 64x64](axonometric-64x64.png)
+
 ### Template: `axonometric-32x32.ait`
 
 ![axonometric 32x32](axonometric-32x32.png)
