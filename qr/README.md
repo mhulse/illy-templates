@@ -56,6 +56,10 @@ Once complete, your **functional** QR code should like like this:
 
 ![micky-ieq](https://cloud.githubusercontent.com/assets/218624/7952253/ec6ff3b2-0967-11e5-9243-4d299902ca0b.png)
 
+Here’s one as seen on the inside cover of a [BJ’s Restaurant](http://www.bjsrestaurants.com/) menu (no affiliation):
+
+![img_2471](https://cloud.githubusercontent.com/assets/218624/8122891/82b41542-1075-11e5-9190-75a8a74082e0.jpg)
+
 ## Links
 
 * [Accessibly Importing vCards From QR Codes](https://lrvick.net/blog/accessibly_importing_vcards_from_qr_codes/)
