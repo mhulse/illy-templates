@@ -2,19 +2,9 @@
 
 Templates setup specifically for pixel art, but could be used for pure vector illustrations.
 
-## Template: `iso.ait`
+## Template `ff2.ai`
 
-![iso](iso.png)
-
-Used to create isometric (30º angles) pixel art.
-
-**Recommended preference:**
-
-![prefs](https://cloud.githubusercontent.com/assets/218624/7808217/959eb1b2-0346-11e5-8374-60901433dc60.jpg)
-
-Or using [VectorScribe](http://www.astutegraphics.com/software/vectorscribe/)’s “protractor” panel:
-
-![protractor](https://cloud.githubusercontent.com/assets/218624/7808216/959ac55c-0346-11e5-8c89-2b478fd23ca0.jpg)
+![ff2](ff2.png)
 
 ## Template: `32x32.ait`
 
@@ -49,3 +39,8 @@ Or using [VectorScribe](http://www.astutegraphics.com/software/vectorscribe/)’
 1. My prefs:
 
 ![prefs](https://cloud.githubusercontent.com/assets/218624/3143409/a8034150-e9f8-11e3-82c0-ac07a16abe6e.png)
+
+## Links
+
+* [Chapter 8: Finally Making A Sprite](http://www.yarrninja.com/pixeltutorial/chapter8.htm)
+
