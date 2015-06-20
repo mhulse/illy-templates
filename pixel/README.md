@@ -6,7 +6,7 @@ Templates setup specifically for pixel art, but could be used for pure vector il
 
 ![ff2](ff2.png)
 
-**FF2 demo files ![ff2](ff2-demo/ff2.gif) [click here](ff2-demo/)**
+**FF2 demo files ![ff2](ff2/ff2.gif) [click here](ff2/)**
 
 ## Template: `32x32.ait`
 
