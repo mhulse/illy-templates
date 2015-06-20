@@ -12,6 +12,8 @@ Templates setup specifically for pixel art, but could be used for pure vector il
 
 ![32x32](32x32.png)
 
+![32x32](32x32.gif)
+
 ## Template: `paint.ait`
 
 ![paint](paint.png)
