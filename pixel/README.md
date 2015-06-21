@@ -2,7 +2,15 @@
 
 Templates setup specifically for pixel art, but could be used for pure vector illustrations.
 
+## Template `ff3.ai`
+
+`16px` x `24px`
+
+![ff3](ff3.png)
+
 ## Template `ff2.ai`
+
+`16px` x `16px`
 
 ![ff2](ff2.png)
 
