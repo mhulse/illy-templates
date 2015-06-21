@@ -2,6 +2,10 @@
 
 More information coming soon.
 
+## `skin.ase`
+
+![skin](skin.png)
+
 ## `default.ase`
 
 ![default](default.png)
