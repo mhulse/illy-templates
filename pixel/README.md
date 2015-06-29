@@ -8,6 +8,8 @@ Templates setup specifically for pixel art, but could be used for pure vector il
 
 ![64x64](64x64.png)
 
+![64x64](64x64.gif)
+
 ## Template `ff3.ait`
 
 `16px` x `24px`
