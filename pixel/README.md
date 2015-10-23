@@ -2,6 +2,18 @@
 
 Templates setup specifically for pixel art, but could be used for pure vector illustrations.
 
+## Template: `64x64.ait`
+
+![64x64](64x64-iso.png)
+
+## Template: `32x32-iso.v1.ait`
+
+![32x32](32x32-iso.v1.png)
+
+## Template: `32x32-iso.v2.ait`
+
+![32x32](32x32-iso.v2.png)
+
 ## Template `64x64.ait
 
 `64px` x `64px`

@@ -6,14 +6,6 @@
 
 > – [Axonometric projection](http://en.wikipedia.org/wiki/Axonometric_projection)
 
-## Template: `64x64.ait`
-
-![64x64](64x64.png)
-
-## Template: `32x32.ait`
-
-![32x32](32x32.png)
-
 ## Template: `iso.ait`
 
 ![iso](iso.png)
@@ -33,6 +25,23 @@ Or using [VectorScribe](http://www.astutegraphics.com/software/vectorscribe/)’
 Recommended preference settings:
 
 ![prefs](https://cloud.githubusercontent.com/assets/218624/7830147/7f363db0-03fe-11e5-9855-6706f60539ed.png)
+
+### Using Hot Door, Inc.’s CADtools 7
+
+**Question:**
+
+> How do I set the CADaxonometric to work with 45º and 30º axo/iso grids? When I type in 45º in both 3d boxes, and click on a cube face, that doesn't seem to align my object to the 45º grid (for example).
+
+**Answer:**
+
+> That’s because the angles are in 3D, not 2D. In CADtools 7, as you know, we had 2D angle fields that would translate into 3D. We removed them due to time constraints (the calculations were very intense), but plan to add them back in CADtools 10. In the meantime, here are the 2D to 3D settings you can use:
+
+> 2D | 3D
+--- | ---
+45 x 45 | 45 x 80
+15 x 60 | 21 x 42
+15 x 45 | 27 x 31
+15 x 30 | 34 x 23
 
 ## Links
 
