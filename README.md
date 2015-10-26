@@ -4,37 +4,47 @@ Adobe Illustrator templates and other related files that I have created for use 
 
 ## Resources
 
-* [actions](actions/)
- > Information about actions (nothing much in here currently).
+### [Actions](actions/)
+
+> Information about actions (nothing much in here currently).
  
-* [axonometric](axonometric/)
- > Axonometric templates and info.
+### [Axonometric](axonometric/)
+
+> Axonometric templates and info.
  
- > Axonometric projection is a type of parallel projection used for creating a pictorial drawing of an object, where the object is rotated along one or more of its axes relative to the plane of projection.
+> Axonometric projection is a type of parallel projection used for creating a pictorial drawing of an object, where the object is rotated along one or more of its axes relative to the plane of projection.
 
-* [grids](grids/)
- > Grid templates; useful for the design creation of icon “sets”. 
+### [Grids](grids/)
 
-* [icons](icons/)
- > Icon templates; useful for the design and creation of single icons.
+> Grid templates; useful for the design creation of icon “sets”. 
 
-* [perspective](perspective/)
- > Perspective starter templates; one-, two-, and three-point perspective (at least, that’s the end goal).
+### [Icons](icons/)
 
-* [pixel](pixel/)
- > Templates setup specifically for vector pixel art, but could be used for pure vector illustrations.
+> Icon templates; useful for the design and creation of single icons.
 
-* [profiles](profiles/)
- > Useful, and sane, new document profiles.
+### [Perspective](perspective/)
 
-* [qr](qr/)
- > Functional, custom-designed, vector QR code tutorial and additional info.
+> Perspective starter templates; one-, two-, and three-point perspective (at least, that’s the end goal).
 
-* [scripts](scripts/)
- > Information about scripts.
+### [Pixel](pixel/)
 
-* [swatches](swatches/)
- > Various swatch collections.
+> Templates setup specifically for vector pixel art, but could be used for pure vector illustrations.
+
+### [Profiles](profiles/)
+
+> Useful, and sane, new document profiles.
+
+### [QR codes](qr/)
+
+> Functional, custom-designed, vector QR code tutorial and additional info.
+
+### [Scripts](scripts/)
+
+> Information about scripts.
+
+### [Swatches](swatches/)
+
+> Various swatch collections.
 
 ---
 
