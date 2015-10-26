@@ -5,16 +5,36 @@ Adobe Illustrator templates and other related files that I have created for use 
 ## Resources
 
 * [actions](actions/)
+ > Information about actions (nothing much in here currently).
+ 
 * [axonometric](axonometric/)
-* [grid](grid/)
-* [icon](icon/)
-* [perspective](perspective/)
-* [pixel](pixel/)
-* [profiles](profiles/)
-* [qr](qr/)
-* [scripts](scripts/)
-* [swatches](swatches/)
+ > Axonometric templates and info.
+ 
+ > Axonometric projection is a type of parallel projection used for creating a pictorial drawing of an object, where the object is rotated along one or more of its axes relative to the plane of projection.
 
+* [grids](grids/)
+ > Grid templates; useful for the design creation of icon “sets”. 
+
+* [icons](icons/)
+ > Icon templates; useful for the design and creation of single icons.
+
+* [perspective](perspective/)
+ > Perspective starter templates; one-, two-, and three-point perspective (at least, that’s the end goal).
+
+* [pixel](pixel/)
+ > Templates setup specifically for vector pixel art, but could be used for pure vector illustrations.
+
+* [profiles](profiles/)
+ > Useful, and sane, new document profiles.
+
+* [qr](qr/)
+ > Functional, custom-designed, vector QR code tutorial and additional info.
+
+* [scripts](scripts/)
+ > Information about scripts.
+
+* [swatches](swatches/)
+ > Various swatch collections.
 
 ---
 

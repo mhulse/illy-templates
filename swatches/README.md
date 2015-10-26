@@ -1,6 +1,6 @@
 # Swatches
 
-More information coming soon.
+Various swatch collections.
 
 ## `skin.ase`
 

@@ -1,5 +1,7 @@
 # Icons
 
+Icon templates; useful for the design and creation of single icons.
+
 ## Template `squircle.ait`
 
 ![squircle.ait](squircle.png)

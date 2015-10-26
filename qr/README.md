@@ -1,4 +1,8 @@
-# QR code with logo
+# QR Code
+
+Functional, custom-designed, vector QR code tutorial and additional info.
+
+## QR code with logo
 
 Create a text file with vcard markup:
 

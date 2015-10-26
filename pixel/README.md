@@ -1,6 +1,6 @@
 # Pixel
 
-Templates setup specifically for pixel art, but could be used for pure vector illustrations.
+Templates setup specifically for vector pixel art, but could be used for pure vector illustrations.
 
 ## Template: `64x64.ait`
 
