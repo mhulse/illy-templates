@@ -42,10 +42,6 @@ Adobe Illustrator templates and other related files that I have created for use 
 
 > Information about scripts.
 
-### [Swatches](swatches/)
-
-> Various swatch collections.
-
 ---
 
 #### LEGAL
