@@ -1,12 +1,13 @@
 # Illy
 
-Adobe Illustrator templates and other related files that I have created for use in various projects over time.
+### Actions
 
-## Resources
+Installation location: 
 
-### [Actions](actions/)
+```text
+/Applications/Adobe\ Illustrator\ CC\ 2014/Presets.localized/en_US/Actions
+```
 
-> Information about actions (nothing much in here currently).
  
 ### [Axonometric](axonometric/)
 
