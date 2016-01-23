@@ -1,14 +1,5 @@
 # Illy
 
-### Actions
-
-Installation location: 
-
-```text
-/Applications/Adobe\ Illustrator\ CC\ 2014/Presets.localized/en_US/Actions
-```
-
- 
 ### [Axonometric](axonometric/)
 
 > Axonometric templates and info.
@@ -38,10 +29,6 @@ Installation location:
 ### [QR codes](qr/)
 
 > Functional, custom-designed, vector QR code tutorial and additional info.
-
-### [Scripts](scripts/)
-
-> Information about scripts.
 
 ---
 
