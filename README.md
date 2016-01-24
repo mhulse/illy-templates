@@ -38,10 +38,6 @@ From Illustrator, go to <kbd>File</kbd> `>` <kbd>New from Template…</kbd> and 
 
 > Templates setup specifically for vector pixel art, but could be used for pure vector illustrations.
 
-### [Profiles](profiles/)
-
-> Useful, and sane, new document profiles.
-
 ### [QR codes](qr/)
 
 > Functional, custom-designed, vector QR code tutorial and additional info.
