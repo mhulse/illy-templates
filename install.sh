@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Illustrator default template folder:
-INSTALL_DIR="$(cd /Applications/Adobe\ Illustrator*/Cool\ Extras.localized/en_US/Templates/@mhulse; pwd)";
+INSTALL_DIR="$(cd /Applications/Adobe\ Illustrator*/Cool\ Extras.localized/en_US/Templates/; pwd)/@mhulse";
 
 # Remote repo zip file containing all templates:
 SOURCE_ZIP="https://github.com/mhulse/illy-templates/tarball/master";
