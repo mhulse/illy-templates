@@ -1,4 +1,20 @@
-# Illy
+# Illy Templates
+
+**Custom Adobe Illustrator templates.**
+
+## Installation
+
+From the command line, run:
+
+```bash
+curl -L https://git.io/vzovJ | sh
+```
+
+This will install all the templates from the repo to your `/Applications/Adobe\ Illustrator\ CC\ 20XX/Cool\ Extras.localized/en_US/Templates` directory.
+
+From Illustrator, go to <kbd>File</kbd> `>` <kbd>New from Template…</kbd> and pick a template from the `@mhulse` directory.
+
+## Files
 
 ### [Axonometric](axonometric/)
 
