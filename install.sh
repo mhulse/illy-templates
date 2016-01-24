@@ -13,7 +13,7 @@ rm -rf "$INSTALL_DIR";
 mkdir -pv "$INSTALL_DIR";
 
 # Get the zip file and extract all template files:
-curl -#L "$SOURCE_ZIP" | tar -xzv --strip-components 1 -C "$INSTALL_DIR" "*.ait";
+curl -sS -#L "$SOURCE_ZIP" | tar -xzv --strip-components 1 -C "$INSTALL_DIR" "*.ait";
 
 # Done!
 # For more information about this script, see:
