@@ -10,7 +10,7 @@ From the command line, run:
 curl -L https://git.io/vzovJ | sh
 ```
 
-This will install all the templates from the repo to your `/Applications/Adobe\ Illustrator\ CC\ 20XX/Cool\ Extras.localized/en_US/Templates` directory.
+This will install all templates from this repo into your `/Applications/Adobe\ Illustrator\ CC\ 20XX/Cool\ Extras.localized/en_US/Templates` directory.
 
 From Illustrator, go to <kbd>File</kbd> `>` <kbd>New from Template…</kbd> and pick a template from the `@mhulse` directory.
 
@@ -48,9 +48,7 @@ From Illustrator, go to <kbd>File</kbd> `>` <kbd>New from Template…</kbd> and 
 
 ---
 
-#### LEGAL
-
-Copyright © 2015 [Michael Hulse](http://mky.io).
+Copyright © 2016 [Michael Hulse](http://mky.io).
 
 Licensed under the Apache License, Version 2.0 (the “License”); you may not use this work except in compliance with the License. You may obtain a copy of the License in the LICENSE file, or at:
 
