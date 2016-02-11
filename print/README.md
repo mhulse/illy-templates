@@ -2,8 +2,8 @@
 
 Templates intended for use with print projects.
 
-## Template: `trifold.ait`
+## Template: `tri-fold.ait`
 
-![trifold-1](trifold-1.png)
+![tri-fold-1](tri-fold-1.png)
 
-![trifold-1](trifold-2.png)
+![tri-fold-1](tri-fold-2.png)
