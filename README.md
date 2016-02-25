@@ -7,7 +7,7 @@
 From the command line, run:
 
 ```bash
-curl -L https://git.io/vzovJ | sh
+bash <(curl -sL https://git.io/vzovJ)
 ```
 
 This will install all templates from this repo into your `/Applications/Adobe\ Illustrator\ CC\ 20XX/Cool\ Extras.localized/en_US/Templates` directory.
