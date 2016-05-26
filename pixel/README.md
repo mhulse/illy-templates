@@ -2,6 +2,16 @@
 
 Templates setup specifically for vector pixel art, but could be used for pure vector illustrations.
 
+## Template: `paint-8-16-32-48-64px.ait`
+
+![paint-8-16-32-48-64px](paint-8-16-32-48-64px.png)
+
+This one is my favorite for painting. It uses 4 artboards, stacked, at 8x8, 16x16, 32x32, 48x48 and 64x64 pixels respectively. When saving for web, just make sure the artboard you want to export is selected and the art visible on that artboar’s size will get exported!
+
+## Template: `paint-32x32.ait`
+
+![paint-32x32](paint-32x32.png)
+
 ## Template: `64x64.ait`
 
 ![64x64](64x64-iso.png)
