@@ -8,6 +8,12 @@ Templates setup specifically for vector pixel art, but could be used for pure ve
 
 This one has five 24x24px art boards with one 124x124px paint area covering all art boards. Use this template to quickly produce 25 different sprites.
 
+## Template: `paint-16x16x5.ait`
+
+![paint-16x16x5](paint-16x16x5.png)
+
+Same as above, but 16x16px.
+
 ## Template: `paint-8-16-32-48-64px.ait`
 
 ![paint-8-16-32-48-64px](paint-8-16-32-48-64px.png)
